@@ -58,7 +58,7 @@ It allows the parents to track the location of their child at any time, and to k
 <h4>Install the APK file on your Android smartphone directly from your browser</h4>
 <li> Open your browser</li> 
 <li> Open <strong>2022-GP1-3</strong> repository on GitHub</li>
-<li> Find the APK file you want to download in <strong>Elfaa APK</strong> folder</li> 
+<li> Find the APK file to download in <strong>Elfaa APK</strong> folder</li> 
 <li> Tap it – you should then be able to see it downloading on the top bar of your device</li>
 <li> Open Downloads</li> 
 <li> Tap on the APK file and tap Yes when prompted</li> 
