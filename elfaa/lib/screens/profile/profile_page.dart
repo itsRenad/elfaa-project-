@@ -78,6 +78,7 @@ class _EditProfilePageState extends State<EditProfilePage> {
         child: Padding(
           padding: const EdgeInsets.fromLTRB(10, 8, 10, 8),
           child: TextFormField(
+            keyboardType: TextInputType.emailAddress,
             textAlign: TextAlign.right,
             controller: email,
             decoration: InputDecoration(

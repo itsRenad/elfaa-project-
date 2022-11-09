@@ -89,6 +89,7 @@ class _SignupPageState extends State<SignupPage> {
                   Directionality(
                       textDirection: TextDirection.rtl,
                       child: TextFormField(
+                          keyboardType: TextInputType.emailAddress,
                         textAlign: TextAlign.right,
                         controller: email,
                         decoration: const InputDecoration(
